@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTfIaaUJXeZknghEU+fuA3bwXzyiik44E5+nnObl/+jVWTmFP1xxMo4/bsZdUFi8dk+NNYh+OWPcRt/lgG+DlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\Stonks\\Stonks.Model\\Stonks.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erwin\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
+    "C:\\Users\\erwin\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.4\\microsoft.aspnet.identity.core.2.2.4.nupkg.sha512",
+    "C:\\Users\\erwin\\.nuget\\packages\\microsoft.aspnet.identity.entityframework\\2.2.4\\microsoft.aspnet.identity.entityframework.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

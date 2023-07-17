@@ -1,0 +1,10 @@
+D:\Repositorios\Stonks\Stonks.Model\bin\Debug\netcoreapp2.1\Stonks.Model.deps.json
+D:\Repositorios\Stonks\Stonks.Model\bin\Debug\netcoreapp2.1\Stonks.Model.dll
+D:\Repositorios\Stonks\Stonks.Model\bin\Debug\netcoreapp2.1\Stonks.Model.pdb
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.csproj.AssemblyReference.cache
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.AssemblyInfoInputs.cache
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.AssemblyInfo.cs
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.csproj.CoreCompileInputs.cache
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.dll
+D:\Repositorios\Stonks\Stonks.Model\obj\Debug\netcoreapp2.1\Stonks.Model.pdb

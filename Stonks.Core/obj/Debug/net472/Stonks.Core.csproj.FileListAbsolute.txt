@@ -1,0 +1,7 @@
+D:\Repositorios\Stonks\Stonks.Core\bin\Debug\net472\Stonks.Core.dll
+D:\Repositorios\Stonks\Stonks.Core\bin\Debug\net472\Stonks.Core.pdb
+D:\Repositorios\Stonks\Stonks.Core\obj\Debug\net472\Stonks.Core.csproj.AssemblyReference.cache
+D:\Repositorios\Stonks\Stonks.Core\obj\Debug\net472\Stonks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Stonks\Stonks.Core\obj\Debug\net472\Stonks.Core.csproj.CoreCompileInputs.cache
+D:\Repositorios\Stonks\Stonks.Core\obj\Debug\net472\Stonks.Core.dll
+D:\Repositorios\Stonks\Stonks.Core\obj\Debug\net472\Stonks.Core.pdb
